@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<title>
+  Sales Training Tool
+</title>
+<style>
+ iframe{
+border: 0;
+	}
+</style>
+
+<body>
+
+<iframe src="https://script.google.com/macros/s/AKfycbwTv5BhSwcqTOJ3a08xb5EdY5aIr_twY3LsW3layYWycz-3PZGd/exec" height="1000" width="100%"></iframe>
+	
+</body>
+</html>
